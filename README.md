@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Priti Choudhary
 
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Integrated+MCA+Student;Aspiring+Software+Developer;Passionate+Programmer;Problem+Solver;Mathematics+Enthusiast" alt="Typing SVG" />
 </p>
 
