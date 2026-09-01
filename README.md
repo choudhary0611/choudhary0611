@@ -1,7 +1,7 @@
-  # 👋 Hi, I'm Priti Choudhary
+ # 👋 Hi, I'm Priti Choudhary
 
 <p align="center">
-  <img src=" https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg? s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI=https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg?s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI=font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Integrated+MCA+Student;Aspiring+Software+Developer;Passionate+Programmer;Problem+Solver;Mathematics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Integrated+MCA+Student;Aspiring+Software+Developer;Passionate+Programmer;Problem+Solver;Mathematics+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I'm currently focused on building a strong foundation in **programming and compu
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Programming-3776AB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNlr6EYWaA3nb7o6RIs_qxhmNIMobKyQxHuqa_CNLsocrO00ogxvx4dogN&s=10"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mathematics-8A2BE2?style=for-the-badge&logo=wolfram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer%20Science-0A66C2?style=for-the-badge&logo=academia&logoColor=white"/>
@@ -77,3 +77,5 @@ Mathematics                  █████████░░  80%
 Data Structures              █████░░░░░░  50%
 Web Development              █████░░░░░░  50%
 Git & GitHub                 ███████░░░░  60%
+
+ 
