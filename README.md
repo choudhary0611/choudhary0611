@@ -33,7 +33,7 @@ I'm currently focused on building a strong foundation in **programming and compu
 
 <p align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNlr6EYWaA3nb7o6RIs_qxhmNIMobKyQxHuqa_CNLsocrO00ogxvx4dogN&s=10"/>
+<img src= "xyz.pvt"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mathematics-8A2BE2?style=for-the-badge&logo=wolfram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer%20Science-0A66C2?style=for-the-badge&logo=academia&logoColor=white"/>
