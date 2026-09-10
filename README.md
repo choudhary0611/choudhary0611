@@ -1,7 +1,7 @@
  # 👋 Hi, I'm Priti Choudhary
 
 <p align="center">
-  <img src=" https://www.geeksforgeeks.org/profile/edit" />
+  <img src="https://www.geeksforgeeks.org/profile/choudharbxom?from=explore" />
 </p>
 
 <p align="center">
