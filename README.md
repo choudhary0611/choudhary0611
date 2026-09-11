@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://www.geeksforgeeks.org/profile/choudharbxom?from=explore" />
+  <img src="https://www.linkedin.com/in/priti-choudhary-66a61142b/">
 </p>
 
 <p align="center">
