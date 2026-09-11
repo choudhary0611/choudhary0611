@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?usernamsethdhysrdryrshtdryjse=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profiledgnfnhgncghmcgmhcg jc Visitors" />
+  <img src="https://www.heakerrank.com/profile/choudharypb2007"/>
 </p>
 
 ---
